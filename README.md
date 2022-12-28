@@ -1,1 +1,1 @@
-#Optimizasyon Ödevi
+# Optimizasyon Ödevi
